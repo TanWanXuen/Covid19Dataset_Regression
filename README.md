@@ -1,2 +1,2 @@
 # Covid19Dataset_Regression
-Predicting new Covid-19-related deaths in Malaysia using various features derived from Covid-19 datasets by supervised Machine Learning (Regression) techniques using Python
+Predicted new COVID-19-related deaths in Malaysia using **supervised machine learning regression techniques** in **Python**, based on various features derived from COVID-19 datasets. The complete findings are documented in the file **Lab3_AI_Report.pdf**.
